@@ -1,4 +1,4 @@
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-vba-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 # Awesome VBA![VBALogo](./resources/VBALogo.png)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visual Basic 6.0 (VB6) 的实现，内置于大多数桌面Microsoft Office应用程序中。
@@ -219,7 +219,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_misc](./resources/Duck.svg)](#-)[twinBasic](https://twinbasic.com/)-一个VBA兼容的解析器，评估器和编译器。
 ## 样式参考线
 
-* [RubberDuck's style guide](https://rubberduckvba.wordpress.com/2021/05/29/rubberduck-style-guide/)-有一些很棒的中级-高级指导。
+* [RubberDuck's style guide](https://rubberduckvba.wordpress.com/2021/05/29/rubberduck-style-guide/)-有一些Awesome 中级-高级指导。
 * [VB6 Coding conventions](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa240822(v%3dvs.60))-VBA中使用的变量/类/模块命名约定。极大地帮助组织在VBE (除非你有rubberduck)。
 ## 信息
 
