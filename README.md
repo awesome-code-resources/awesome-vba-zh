@@ -122,7 +122,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_all](./resources/Crown.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA Float](https://github.com/ws-garcia/VBA-float)-一个实用程序来执行大整数和有理数与数千位的计算。
 ### 数据库工具
 
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[SQL Library](https://github.com/Beakerboy/VBA-SQL-Library)-用于psql，mssql，mysql数据库的OOP SQL库。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[SQL Library](https://github.com/Beakerboy/VBA-SQL-Library)-面向psql，mssql，mysql数据库的OOP SQL库。
 ### 用户窗体工具
 
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Task Dialog](https://github.com/fafalone/cTaskDialog64)-来自这个1类的大量UI功能，以严格的动态和模块化方式。伟大的数据输入表单。另请参见[vbforums](https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs)post以获取更多信息。
@@ -132,7 +132,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_dll](./resources/Dependencies.svg)](#-)[Modern UI Components](https://github.com/krishKM/Modern-UI-Components-for-VBA)-自定义现代的控件。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[MVVM](https://github.com/rubberduck-vba/MVVM)-模型-视图-用于可维护的userform开发的ViewModel基础结构。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA Userform Transitions and Animations](https://github.com/todar/VBA-Userform-Animations)-一个很好的库，用于将动画easings实现到用户窗体中。
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Trick's Timer](https://github.com/thetrik/VbTrickTimer)-如果您需要连续运行一段代码并且无法访问(和/或您需要以每秒一次的速度运行它)，这是适合您的类!也看看[forum post](https://www.vbforums.com/showthread.php?875635-VB6-VBA-Timer-class)了解更多信息。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Trick's Timer](https://github.com/thetrik/VbTrickTimer)-如果您需要连续运行一段代码并且无权访问(和/或您需要以每秒一次以上的速度运行它)，这是适合您的课程!还检查了[forum post](https://www.vbforums.com/showthread.php?875635-VB6-VBA-Timer-class)了解更多信息。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Drag and Drop filepaths](https://www.mrexcel.com/board/threads/vba-drag-drop-filepath.843330/page-6#post-5898495)-允许您的用户表单处理拖放文件。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Late-bound WebBrowser Control Events](https://www.vbforums.com/showthread.php?847773-VB6-elevated-IE-Control-usage-with-HTML5-elements-and-COM-Event-connectors)-一种以后期绑定方式锁定WebBrowser事件的技术。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_paid](./resources/Money.svg)](#-)[Mark's userform tools](https://www.kubiszyn.co.uk/)-许多UI工具和漂亮的用户表单。
@@ -149,8 +149,8 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Safe Subclassing](https://www.mrexcel.com/board/threads/intercepting-resetting-of-vba-editor-as-well-as-unhandled-errors-for-safe-subclassing.1024295/)-提供子类化Excel/Word/PowerPoint窗口或用户表单以执行进一步自动化的能力。在后面的线程中，还有一个示例，用于从其他应用程序子类化其他窗口。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Calling private module functions](https://codereview.stackexchange.com/questions/274532/low-level-vba-hacking-making-private-functions-public)
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_32](./resources/32-Bit.svg)](#-)[Universal DLL Calls](http://www.vbforums.com/showthread.php?781595-VB6-Call-Functions-By-Pointer-(Universall-DLL-Calls))-一个库，可用于调用任何函数指针，DLL或对象的函数和。
-* [![p_all](./resources/Crown.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA state-loss callback](https://github.com/cristianbuse/VBA-StateLossCallback)-用于VBA状态损失的无故障检测器。状态丢失可能发生在以下情况: 有人点击在未处理的错误中，单击VBA停止按钮; 进入设计模式; 应用程序退出。
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[vb2clr](https://github.com/jet2jet/vb2clr)-使用C # 从VBA使用.NET CLR运行时。
+* [![p_all](./resources/Crown.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA state-loss callback](https://github.com/cristianbuse/VBA-StateLossCallback)-用于VBA状态损失的无故障检测器。状态丢失可能发生在以下情况: 有人点击在未处理的错误中; 您单击VBA停止按钮; 您进入设计模式; 应用程序退出。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[vb2clr](https://github.com/jet2jet/vb2clr)-使用VBA中的C #。NET CLR运行时。
 * 从框架:
   * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)在查找-COM自动化的一站式商店，从通过偏移量调用接口到提取类型信息。
 ### 解析器/解释器
@@ -164,7 +164,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 ### Web工具
 
 * [![p_all](./resources/Crown.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA-Web](https://github.com/VBA-tools/VBA-Web)-将适用于Windows和Mac的VBA，Excel，Access和Office连接到web服务和web
-* [![p_all](./resources/Crown.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA-WebSocket](https://github.com/EagleAglow/vba-websocket)-用于WebSocket客户端的Microsoft示例代码，可以与echo服务器结合使用。也有[a class](https://github.com/EagleAglow/vba-websocket-class)和一个[async version](https://github.com/EagleAglow/vba-websocket-async)由microsoft代码的发现者生成。
+* [![p_all](./resources/Crown.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA-WebSocket](https://github.com/EagleAglow/vba-websocket)-可以与echo服务器结合使用的WebSocket客户端的Microsoft示例代码。还有[a class](https://github.com/EagleAglow/vba-websocket-class)和一个[async version](https://github.com/EagleAglow/vba-websocket-async)由microsoft代码的发现者生成。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_32](./resources/32-Bit.svg)](#-)[vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket)-基于MFC中的原始CAsyncSocket包装的VB6的简单和瘦WinSock API包装。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA)-使用devtools协议自动执行Chromium边缘。[Github backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation)
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol)-使用Chrome devtools协议自动化chrome。
@@ -176,7 +176,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[![a_wd](./resources/WordLogo.svg)](#-)[![o_pass](./resources/Padlock.svg)](#-)-[RibbonX](https://www.andypope.info/vba/ribboneditor_2010.htm)-AndyPope的可视化功能区编辑器。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Custom UI XML Editor](https://yoursumbuddy.com/ribbon-customui-xml-editor/)-用于直接添加，编辑和验证功能区XML的插件 (Excel 2010)。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_paid](./resources/Money.svg)](#-)[MZ-Tools](https://www.mztools.com/)-VBE addin提供开发工具
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VbPeg](https://github.com/wqweto/VbPeg)-VBA的解析器生成器。转换PEG语法，如[this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg)进入[VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls)。如果您在VBA中实现新的编程语言，则非常有用。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VbPeg](https://github.com/wqweto/VbPeg)-VBA的解析器生成器。转换PEG语法，如[this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg)进入[VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls)。如果您要在VBA中实现新的编程语言，则非常有用。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[VBA Resource File Editor](http://leandroascierto.com/blog/vba-resource-file-editor/)-将其他文件存储在excel/word/powerpoint文件中，以便以后使用此方便的工具。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_32](./resources/32-Bit.svg)](#-)[vbRichClient](https://vbrichclient.com/#/en/About/)-一个充满有用库的外部客户端
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_all](./resources/Star.svg)](#-)[![o_paid](./resources/Money.svg)](#-)[vbWatchDog](https://www.everythingaccess.com/vbwatchdog.asp)-破解VBA运行时以提供发生错误的模块名称，过程名称和行号。
@@ -203,7 +203,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 <!-- ### VBE UI -->
 ### 插件
 
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[MenuRighter](https://yoursumbuddy.com/blog/menurighter/)-MenuRighter是一个Excel插件，可让您修改右键菜单。您可以添加几乎在其他右键菜单或Excel 2003的 “经典” 菜单中找到的任何控件。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[MenuRighter](https://yoursumbuddy.com/blog/menurighter/)-MenuRighter是一个Excel插件，允许您修改右键单击菜单。您几乎可以添加在其他右键菜单或Excel 2003的 “经典” 菜单中找到的任何控件。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Sam Rad's DatePicker](http://samradapps.com/datepicker/)-视觉上令人印象深刻和专业的DatePicker addin for Excel。仅工作表/不能与userforms一起使用。
 ### 游戏/有趣的项目
 
@@ -225,7 +225,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 
 * [Thunder - The birth of Visual Basic](http://www.forestmoon.com/birthofvb/birthofvb.html)-关于VB7/VBA诞生的小文章。
 * [My First Bill Gates Review](https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/)-Joel Spolsky，Excel团队的项目经理，讲述了他的第一次Bill Gates评论。Joel添加了许多功能，例如,,和。它还讨论了从Lotus 123移植到Excel的可怕的日期错误。
-* [Ruby, EB and DLL composition](https://github.com/sancarn/stdVBA-Inspiration/blob/master/_OtherDocumentation/VBA%20and%20VB6%20History%20-%20Eb%20and%20Ruby/VBA%20History.md)-翻译副本[VBStreets article](http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56551)由俄罗斯VBer创建。在该语言的历史中详细介绍了VB6和VBA dll的组成。
+* [Ruby, EB and DLL composition](https://github.com/sancarn/stdVBA-Inspiration/blob/master/_OtherDocumentation/VBA%20and%20VB6%20History%20-%20Eb%20and%20Ruby/VBA%20History.md)-翻译副本[VBStreets article](http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56551)由俄罗斯VBer创建。详细介绍了语言历史中的VB6和VBA dll的组成。
 * [PCode Internals](https://www.vbforums.com/showthread.php?884919-pcode-internals)-VBA编译为PCode。理解较低级别的P代码是一个非常有趣和研究的主题。
 * [How many lines of code in EB](http://bbs.vbstreets.ru/viewtopic.php?f=101&t=56633)-未翻译的文章由俄罗斯VBer它估计VB6/VBA中的代码行数。
 * [SAFEARRAYS](https://www.vbforums.com/showthread.php?895566-RESOLVED-SAFEARRAY-Structure-for-an-Array)-数组的内部结构。
