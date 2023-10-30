@@ -1,5 +1,5 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-vba-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-# Awesome VBA![VBALogo](./resources/VBALogo.png)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome VBA ![VBALogo](./resources/VBALogo.png)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visual Basic 6.0 (VB6) 的实现，内置于大多数桌面Microsoft Office应用程序中。
 
@@ -7,7 +7,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 
 ## 符号体系
 
-由于VBA的性质，许多库不适用于所有操作系统，所有Office应用程序或所有体系结构 (x64/x86)。一些库还可能需要外部资源 (DLL，插件等)，由于VBA缺乏包管理器，这些资源很难使用。为了帮助您找到适合您需求的项目，这个Awesome 列表使用以下符号。符号体系还具有可提供更多信息的工具提示。
+由于VBA的性质，许多库不适用于所有操作系统，所有Office应用程序或所有体系结构 (x64/x86)。一些库还可能需要外部资源 (DLL，插件等)，由于VBA缺乏包管理器，这些资源很难使用。为了帮助您找到适合您需求的项目，这个令人敬畏的列表使用以下符号。符号体系还具有可提供更多信息的工具提示。
 
 #### 平台兼容性
 
@@ -32,7 +32,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![o_paid](./resources/Money.svg)](#-)-链接包括/导致付费内容
 ## 内容
 
-- [Awesome -vba](#Awesome--vba)
+- [真棒-vba](#真棒-vba)
   - [符号体系](#符号体系)
   - [平台兼容性](#平台兼容性)
   - [应用程序兼容性](#应用程序兼容性)
@@ -207,8 +207,8 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Sam Rad's DatePicker](http://samradapps.com/datepicker/)-视觉上令人印象深刻和专业的DatePicker addin for Excel。仅工作表/不能与userforms一起使用。
 ### 游戏/有趣的项目
 
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[xlStudio](https://github.com/DylanTallchiefGit/xlStudio)-Microsoft Excel的DAW。还检查了Awesome [video](https://youtu.be/RFdCM2kHL64)。
-* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Cellivization](https://s0lly.itch.io/cellivization)-在Excel中创建的酷炫的类似RTS的游戏。还检查了Awesome [video](https://www.youtube.com/watch?v=PzETBRcr_i8)。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[xlStudio](https://github.com/DylanTallchiefGit/xlStudio)-Microsoft Excel的DAW。还检查了真棒[video](https://youtu.be/RFdCM2kHL64)。
+* [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Cellivization](https://s0lly.itch.io/cellivization)-在Excel中创建的酷炫的类似RTS的游戏。还检查了真棒[video](https://www.youtube.com/watch?v=PzETBRcr_i8)。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Arkanoid](http://leandroascierto.com/blog/juego-arkanoid-en-excel/)-Arkanoid，复古的街机游戏，内置在Excel中。在某些机器上，它比其他机器运行得更快。
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_xl](./resources/ExcelLogo.svg)](#-)[Battleships](https://github.com/rubberduck-vba/Battleship)
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_ac](./resources/AccessLogo.svg)](#-)[Pacman](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/?page=Page_11#LXXIV)
@@ -219,7 +219,7 @@ Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visua
 * [![p_win](./resources/WindowsLogo.svg)](#-)[![a_misc](./resources/Duck.svg)](#-)[twinBasic](https://twinbasic.com/)-一个VBA兼容的解析器，评估器和编译器。
 ## 样式参考线
 
-* [RubberDuck's style guide](https://rubberduckvba.wordpress.com/2021/05/29/rubberduck-style-guide/)-有一些Awesome 中级-高级指导。
+* [RubberDuck's style guide](https://rubberduckvba.wordpress.com/2021/05/29/rubberduck-style-guide/)-有一些很棒的中级-高级指导。
 * [VB6 Coding conventions](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa240822(v%3dvs.60))-VBA中使用的变量/类/模块命名约定。极大地帮助组织在VBE (除非你有rubberduck)。
 ## 信息
 
