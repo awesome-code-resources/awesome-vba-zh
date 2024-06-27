@@ -1,6 +1,6 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-vba-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 本项目的原始仓库地址为[这里](https://github.com/sancarn/awesome-vba)。
-# Awesome VBA ![VBALogo](./resources/VBALogo.png) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome VBA ![VBALogo](/resources/VBALogo.png) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Visual Basic for Applications (VBA) 是Microsoft的事件驱动编程语言Visual Basic 6.0 (VB6) 的实现，内置于大多数桌面Microsoft Office应用程序中。
 
 这是VBA和vb6的库和资源的精选列表。
